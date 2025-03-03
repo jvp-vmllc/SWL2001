@@ -150,6 +150,7 @@ else()
 		modem_services/lfu_service
 		modem_services/stream_packages
 		lorawan_packages/application_layer_clock_synchronization
+		logging
 	)
 endif()
 
